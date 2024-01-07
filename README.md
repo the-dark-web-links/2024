@@ -1,4 +1,4 @@
-# New Dark web links 2024, Navigate the hidden corners of the internet with our tested dark web links
+# Dark web links 2024 Update
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
