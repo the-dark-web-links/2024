@@ -1,10 +1,10 @@
-# Dark web links 2024 Update
+# New Dark web links 2024
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
 
 
-## Tor versions of clearnet sites (for enchanced privacy)
+## Tor versions of clearnet sites (enchanced privacy)
 
 | Site | TOR URL |
 | --- | --- |
@@ -33,7 +33,7 @@
 | Breaking Bad Forum | [bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion](http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion) |
 
 
-## Email Providers (Tor Hidden Service)
+## Email Providers (Tor Hidden Services)
 
 | Provider | Tor Link |
 | --- | --- |
@@ -41,16 +41,16 @@
 | D.N.M.X | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
 
 
-## Cryptocurrency related
+## Cryptocurrency related pages
 
 | Site | Dark web link |
 | --- | --- |
 | Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
 | Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
 
-# How to access dark net?
+# How to access dark web?
 
-To enter darknet, download Tor Browser. It’s a modified Firefox that allows access to the dark web and is configured for higher security.
+To use Dark web links, download Tor Browser. It’s a modified Firefox that allows access to the dark web and is configured for higher security.
 
 You may get Tor Browser for Windows, Linux, Mac OS and Android here:
 
@@ -122,3 +122,5 @@ Tor is supported by US government, many NGOs, private foundations, research inst
 https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
 
 https://brave.com/
+
+https://hiddenwiki.pw
